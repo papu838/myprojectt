@@ -1,0 +1,2 @@
+idoctype html
+<html>
